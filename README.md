@@ -1,4 +1,6 @@
 # Trabajo final "Medios sociales y ciencia de redes" (2023)
+## App Shiny:
+[![Abrir en Shiny Apps](https://img.shields.io/badge/Abrir%20en-Shiny%20Apps-blue?logo=R&logoColor=white)](https://bpalas.shinyapps.io/ciencia-de-redes/)
 
 ## Cuadernos (Update 2024): 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LXTd_j87bndZaqem-HhGEznpK9BuuckM?usp=sharing) - R (Webscrapping & Igraph)
