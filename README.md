@@ -62,4 +62,6 @@ Perspectiva Temporal y Futura Influencia (Falta Análisis Temporal):
 El seguimiento de nodos que ganan centralidad y PageRank puede proporcionar información valiosa sobre la evolución y la futura influencia de actores políticos. Por ejemplo, observar la dinámica de Matías Meza-Lopenhandía y Miguel Crispi.
 
 
+## 
 
+Graph Machine Learning: https://web.stanford.edu/class/cs224w/
